@@ -1,5 +1,5 @@
-require 'spec_helper'
-require 'pry'
+require "spec_helper.rb"
+require "pry"
 
 describe "Song Class Methods" do
   describe '.create' do
